@@ -28,5 +28,5 @@ This project simulates a real-world persistent backdoor attack and demonstrates 
 - Autoruns showing unauthorized programs at startup
 
 ## 📚 Course
-Network Forensics – University of Massachusetts Lowell  
+Digital Forensics – University of Massachusetts Lowell  
 Term Project – 2025
