@@ -28,19 +28,6 @@ This project demonstrates how to build and test a lightweight Intrusion Detectio
 
 ---
 
-## 📁 Project Structure
-
-```
-Intrusion-Detection/
-├── packet-captures/               # Raw and filtered .pcap files
-├── wireshark-filters.txt          # Custom filters used during analysis
-├── sysinternals-logs/             # System event logs from test VM
-├── summary-report.pdf             # 2-page incident summary (findings + actions)
-└── README.md                      # Project overview and usage
-```
-
----
-
 ## 🛠️ Methodology
 
 1. **Simulated suspicious behavior** (e.g., port scans, failed logins, file transfers)
