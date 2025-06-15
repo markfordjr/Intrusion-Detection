@@ -73,6 +73,7 @@ ip.addr == 192.168.1.103                        # Isolate attacker host
 
 **Mark Ford Jr.**
 GitHub: [markfordjr](https://github.com/markfordjr)
+
 Project Repo: [Intrusion Detection](https://github.com/markfordjr/Intrusion-Detection)
 
 ---
